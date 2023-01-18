@@ -18,4 +18,6 @@ cd youtubeautomator
 
 Viola, Enjoy. 
 
-By Us Coffee: https://www.buymeacoffee.com/elitebytecode
+
+<a href="https://www.buymeacoffee.com/elitebytecode">Buy Me Coffee</a>
+
